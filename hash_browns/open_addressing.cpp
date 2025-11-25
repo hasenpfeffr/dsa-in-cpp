@@ -122,5 +122,6 @@ int main()
 	m.insert(78);
 	m.insert(89);
 	m.insert(97);
+	m.insert(101);
 	m.print();
 }
